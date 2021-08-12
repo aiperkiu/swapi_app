@@ -12,7 +12,7 @@ Aplicacion de consumo de datos desde la API Swapi para analizar y buscar informa
 
 ## Requerimientos
 
-Esta desarrollado en Laravel 8 con lo que el unico requerimiento es tener PHP 7.3 o superior y MySQL.
+Esta desarrollado en Laravel 8, con lo cual es necesario tener PHP 7.3 o superior y MySQL instalado.
 
 ## Como funciona
 
@@ -43,6 +43,7 @@ Se puede listar estos resultados importados con el boton "Listar" y luego tambie
 Hay 3 controladores en "app/Http/Controllers" llamadas ( Naves, Vehiculos y Swapi) donde se ejecutan los recursos necesarios para las funcionalidades desarrolladas.
 
 Librerias utilizadas
--Datatables
--Bootstrap
--TailWind CSS
+
+<li>Datatables</li>
+<li>Bootstrap</li>
+<li>TailWind CSS</li>
