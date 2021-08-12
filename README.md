@@ -18,7 +18,7 @@ Esta desarrollado en Laravel 8, con lo cual es necesario tener PHP 7.3 o superio
 
 ```bash
 # Clonar repositorio
-$ git clone https://github.com/b0dhisattva/swapi_app.git
+$ git clone https://github.com/aiperkiu/swapi_app.git
 
 # Ir al repositorio
 $ cd swapi_app
