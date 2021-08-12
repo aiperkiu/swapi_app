@@ -12,7 +12,7 @@ Aplicacion de consumo de datos desde la API Swapi para analizar y buscar informa
 
 ## Requerimientos
 
-Esta desarrollado en Laravel 8, con lo cual es necesario tener PHP 7.3 o superior y MySQL instalado.
+Esta desarrollado en Laravel 8, con lo cual es necesario tener PHP 7.3 o superior, composer y MySQL instalado.
 
 ## Como funciona
 
