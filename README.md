@@ -3,7 +3,7 @@ Aplicacion de consumo de datos desde la API Swapi para analizar y buscar informa
 
 <p align="center">
   <a href="#Requerimientos">Requerimientos</a> •
-  <a href="#como-funciona">Como funciona</a> •
+  <a href="#Instalacion">Instalacion</a> •
   <a href="#funcionamiento">Funcionamiento</a> •
   <a href="#estructura">Estructura</a> •
 
@@ -14,7 +14,7 @@ Aplicacion de consumo de datos desde la API Swapi para analizar y buscar informa
 
 Esta desarrollado en Laravel 8, con lo cual es necesario tener PHP 7.3 o superior, composer y MySQL instalado.
 
-## Como funciona
+## Instalacion
 
 ```bash
 # Clonar repositorio
