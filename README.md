@@ -36,7 +36,7 @@ NOTA: La base de datos se llama "swapi" que su configuracion de conexion se encu
 
 En la pagina principal apenas carga la app se ven los datos consultados de las naves y vehiculos desde la API Swapi y permite realizar la importacion de todas sus caracteristicas en la base de datos para poder asi analizar la informacion detallada.
 
-!(screenshots/inicio.jpg?raw=true)
+![Pagina de Inicio](screenshots/inicio.jpg?raw=true)
 
 
 Se puede listar estos resultados importados con el boton "Listar" y luego tambien borrarlos de la base de datos si se desea.
